@@ -1,0 +1,6 @@
+{
+  "name": "KhanhAn - Holistic Wellness & Tele-Therapy Hub",
+  "description": "Nền tảng chăm sóc sức khỏe toàn diện & tư vấn trị liệu từ xa đạt chuẩn Nghị định 356/2025/NĐ-CP, HIPAA và OWASP Top 10.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
